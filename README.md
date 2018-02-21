@@ -4,10 +4,10 @@
 
 Commands for Liri is as follows
 
-*  node liri.jsmyTweets my-tweets
+*  node liri.js myTweets
 
-*  node liri.js spotifyThisSong '<song name here>'
+*  node liri.js spotifyThisSong "<song name here>""
 
-*  node liri.js movieThis '<movie name here>'
+*  node liri.js movieThis "<movie name here>"
 
-*  node liri.js doWhatItSays`
+*  node liri.js doWhatItSays

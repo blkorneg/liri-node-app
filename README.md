@@ -6,7 +6,7 @@ Commands for Liri is as follows
 
 *  node liri.js myTweets
 
-*  node liri.js spotifyThisSong "<song name here>""
+*  node liri.js spotifyThisSong "<song name here>"
 
 *  node liri.js movieThis "<movie name here>"
 
